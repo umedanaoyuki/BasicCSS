@@ -7,8 +7,15 @@ body {
 p {
     background-color: aqua;
     margin: 0;
-    width: 50%;
-    /* max-width: 400px; */
-    min-width: 400px;
+    width: 160px;
     height: 160px;
+    /* border-width: 8px;
+    border-style: solid;
+    border-color: blue; */
+    border-top-width: 8px;
+    border-top-style: dashed;
+    border-top-color: blue;
+    border-bottom-width: 8px;
+    border-bottom-style: double;
+    border-bottom-color: black;
 }
