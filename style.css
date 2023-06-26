@@ -9,9 +9,6 @@ p {
     /*
     autoは上下方向には使用不可
     また、paddingに対しても使用不可*/
-    margin: 0 auto;
-    width: 160px;
-    height: 160px;
-    border: 8px solid blue;
-    padding: 16px;
+    margin: 16px 0;
+
 }
