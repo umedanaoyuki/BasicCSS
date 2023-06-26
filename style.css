@@ -9,11 +9,12 @@ p {
     /*
     autoは上下方向には使用不可
     また、paddingに対しても使用不可*/
-    margin: 0;
+    margin: 16px;
     width: 160px;
     height: 160px;
     /* border-radius: 16px 0 16px 32px; */
-    border-radius: 50%;
-    border: 8px solid blue;
+    /* box-shadow: 8px 8px gray; */
+    /* box-shadow: 8px 8px 8px gray; */
+    box-shadow: 0 0 8px gray;
 
 }
