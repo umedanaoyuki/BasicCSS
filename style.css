@@ -10,5 +10,10 @@ p {
     autoは上下方向には使用不可
     また、paddingに対しても使用不可*/
     margin: 16px 0;
+    width: 400px;
+    height: 80px;
+    border: 8px solid blue;
+    padding: 8px;
+    box-sizing: border-box;
 
 }
