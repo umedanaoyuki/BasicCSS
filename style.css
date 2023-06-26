@@ -2,15 +2,12 @@
 
 body {
     margin: 0;
-    color: blue;
-    border: 8px solid blue;
+    font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
 }
 
 h1 {
     background-color: skyblue;
     margin: 0;
-    /* color: blue; */
-    border: inherit;
 }
 
 p {
