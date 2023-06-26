@@ -9,17 +9,6 @@ p {
     margin: 0;
     width: 160px;
     height: 160px;
-    /* border-width: 8px;
-    border-style: solid;
-    border-color: blue; */
-    /* border-top-width: 8px;
-    border-top-style: dashed;
-    border-top-color: blue;
-     */
-    /* 一括指定プロパティ */
-    border-top: 8px dashed blue;
-    border-bottom: 8px double black;
-    /* border-bottom-width: 8px; */
-    /* border-bottom-style: double; */
-    /* border-bottom-color: black; */
+    border: 8px solid blue;
+    padding: 16px;
 }
