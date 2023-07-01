@@ -6,21 +6,21 @@ body {
 }
 
 section {
-    border: 1px solid red;
+    border: 1px solid lightgray;
     width: 400px;
     margin: 32px auto 0;
     border-radius: 8px;
 }
 
 h1 {
-    background-color: skyblue;
+    font-size: 20px;
     margin: 0px;
     padding: 8px;
     text-align: center;
+    border-bottom: 1px solid lightgray;
 }
 
 p {
-    background-color: pink;
     margin: 0px;
     padding: 8px;
     line-height: 2;
